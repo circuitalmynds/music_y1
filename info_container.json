@@ -1,8 +1,8 @@
 {
     "available_space": true,
     "id": "y1",
-    "size_max": 10.688072204589844,
-    "size_mean": 7.540175437927246,
-    "size_min": 4.124717712402344,
-    "total_size": 22.62052631378174
+    "size_max": 0,
+    "size_mean": 0.0,
+    "size_min": 0,
+    "total_size": 0
 }
