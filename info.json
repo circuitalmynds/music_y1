@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1011.2939999999999,
+    "videos": [
         "Joan Sebastian -Secreto de amor-HxOe5W7RaNE.mp4",
         "Conjunto Primavera ‎– No Te Podias Quedar [2001]-aw0DzYh1jWE.mp4",
         "The Jam - Going Underground (Official Video)-AE1ct5yEuVY.mp4",
@@ -95,7 +96,5 @@
         "Alizée - J'en Ai Marre (Live)-iCz8R25hlFI.mp4",
         "Los Cadetes de Linares - Pedro Y La Mafia-AqL-9WmGNyE.mp4",
         "Conjunto Primavera - Jugando Al Amor (Audio)-Uof60Xm_gYg.mp4"
-    ],
-    "id": "y1",
-    "total_size": 964.4453203125
+    ]
 }
