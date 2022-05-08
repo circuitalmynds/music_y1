@@ -1,5 +1,5 @@
 {
-    "available_space": true,
+    "available_space": false,
     "files": [
         {
             "name": "Joan Sebastian -Secreto de amor-HxOe5W7RaNE.mp4",
@@ -130,6 +130,11 @@
             "name": "Lou Reed - Perfect Day - Subtitulos Español-I8Q7V4EBKiI.mp4",
             "path": "music_y1/videos/Lou Reed - Perfect Day - Subtitulos Español-I8Q7V4EBKiI.mp4",
             "size": 40.535648256
+        },
+        {
+            "name": "[1983] Carioca – Dusk [Full Album]-TcR6-dI5sVs.mp4",
+            "path": "music_y1/videos/[1983] Carioca – Dusk [Full Album]-TcR6-dI5sVs.mp4",
+            "size": 43.47682304
         },
         {
             "name": "Laurita Garza - Los Invasores de Nuevo León Ft Los Tucanes de Tijuana (Video Oficial)-eAFkKtfVbN8.mp4",
@@ -452,5 +457,5 @@
             "size": 6.552588288000001
         }
     ],
-    "total_size": 906.5577984000004
+    "total_size": 950.0346214400004
 }
