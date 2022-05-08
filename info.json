@@ -282,6 +282,11 @@
             "size": 4.510091264000001
         },
         {
+            "name": "Rockwell - Somebody's Watching Me (Official Music Video)-7YvAYIJSSZY.mp4",
+            "path": "music_y1/videos/Rockwell - Somebody's Watching Me (Official Music Video)-7YvAYIJSSZY.mp4",
+            "size": 12.350361600000001
+        },
+        {
             "name": "Phil Collins - Another Day In Paradise (Official Music Video)-Qt2mbGP6vFI.mp4",
             "path": "music_y1/videos/Phil Collins - Another Day In Paradise (Official Music Video)-Qt2mbGP6vFI.mp4",
             "size": 15.074725888000001
@@ -447,5 +452,5 @@
             "size": 6.552588288000001
         }
     ],
-    "total_size": 894.2074368000003
+    "total_size": 906.5577984000004
 }
