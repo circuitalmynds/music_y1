@@ -65,13 +65,6 @@
             "url": "https://github.com/circuitalmynds/music_y1/blob/main/videos/CARLOS VEGA - Se me Olvidaba-pOX-avzk69I.mp4?raw=true"
         },
         {
-            "id": "5aXb4PShOKc",
-            "name": "Los Cadetes de Linares - Que Seas Dichosa-5aXb4PShOKc.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y1/videos/Los Cadetes de Linares - Que Seas Dichosa-5aXb4PShOKc.mp4",
-            "size": 4.138864,
-            "url": "https://github.com/circuitalmynds/music_y1/blob/main/videos/Los Cadetes de Linares - Que Seas Dichosa-5aXb4PShOKc.mp4?raw=true"
-        },
-        {
             "id": "18GBiJhI4Jw",
             "name": "The Residents - Act Of Being Polite-18GBiJhI4Jw.mp4",
             "path": "/home/alanmatzumiya/Videos/container/y1/videos/The Residents - Act Of Being Polite-18GBiJhI4Jw.mp4",
@@ -303,13 +296,6 @@
             "url": "https://github.com/circuitalmynds/music_y1/blob/main/videos/Phil Collins - Another Day In Paradise (Official Music Video)-Qt2mbGP6vFI.mp4?raw=true"
         },
         {
-            "id": "Lb92FtFTlVI",
-            "name": "Plácido DOMINGO. Damisela encantadora. Ernesto Lecuona.-Lb92FtFTlVI.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y1/videos/Plácido DOMINGO. Damisela encantadora. Ernesto Lecuona.-Lb92FtFTlVI.mp4",
-            "size": 8.995212,
-            "url": "https://github.com/circuitalmynds/music_y1/blob/main/videos/Plácido DOMINGO. Damisela encantadora. Ernesto Lecuona.-Lb92FtFTlVI.mp4?raw=true"
-        },
-        {
             "id": "DqSrj8kcfXs",
             "name": "The Pink Panther Theme Song Remix-DqSrj8kcfXs.mp4",
             "path": "/home/alanmatzumiya/Videos/container/y1/videos/The Pink Panther Theme Song Remix-DqSrj8kcfXs.mp4",
@@ -462,13 +448,6 @@
             "path": "/home/alanmatzumiya/Videos/container/y1/videos/Morena, morenita - Conjunto Azabache-lwuirkoKL2I.mp4",
             "size": 3.184875,
             "url": "https://github.com/circuitalmynds/music_y1/blob/main/videos/Morena, morenita - Conjunto Azabache-lwuirkoKL2I.mp4?raw=true"
-        },
-        {
-            "id": "AE1ct5yEuVY",
-            "name": "The Jam - Going Underground (Official Video)-AE1ct5yEuVY.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y1/videos/The Jam - Going Underground (Official Video)-AE1ct5yEuVY.mp4",
-            "size": 9.333463,
-            "url": "https://github.com/circuitalmynds/music_y1/blob/main/videos/The Jam - Going Underground (Official Video)-AE1ct5yEuVY.mp4?raw=true"
         },
         {
             "id": "g-B7PXc9vq8",
@@ -695,5 +674,5 @@
             "url": "https://github.com/circuitalmynds/music_y1/blob/main/videos/Los Fabulosos Cadillacs - Mal Bicho (En Vivo en Theater at Madison Square Garden)-8hklYKTmaiU.mp4?raw=true"
         }
     ],
-    "total_size": 1059.814256
+    "total_size": 1037.346717
 }
